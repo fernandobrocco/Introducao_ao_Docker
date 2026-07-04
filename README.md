@@ -10,7 +10,7 @@ An integrative project to test knowledge in Docker and containerization, taught 
 
 To run the entire environment on your machine without having to manually configure Python or databases, you only need to have **Docker** and **Docker Compose** installed on your system.
 
-1. **Download the Project:** Open the terminal on your machine, clone this repository using the command `git clone https://github.com/fernandobrocco/Introducao_ao_Docker.git` and navigate into the folder using `cd Introducao_ao_Docker`.
+1. **Download the Project:** Open the terminal on your machine, clone this repository using the command `git clone https://github.com/fernandobrocco/Docker_container_initialization.git` and navigate into the folder using `cd Docker_container_initialization`.
 
 2. **Start the Infrastructure:** Run the command `docker compose up -d` to download the required images and start all services isolated in the background.
 
